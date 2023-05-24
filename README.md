@@ -4,7 +4,7 @@
 
 ---
 
-### Made with ❤️ by [Ankur Goswami](https://www.linkedin.com/in/ankur-goswami-323767233/)
+### Made by [Ankur Goswami](https://www.linkedin.com/in/ankur-goswami-323767233/)
 
 ---
 
