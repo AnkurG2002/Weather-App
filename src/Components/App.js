@@ -58,7 +58,7 @@ function App() {
 
   return (
     <div className="w-full min-w-min min-h-screen bg-gradientBg bg-no-repeat bg-cover bg-center flex flex-wrap items-center justify-center px-4 lg:px-0 mx-auto">
-      <div className="m-4">
+      <div className="m-4 w-[394px]">
         {/* form */}
         <SearchBar
           inputValue={inputValue}

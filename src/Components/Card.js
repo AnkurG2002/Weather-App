@@ -93,7 +93,7 @@ function Card(props) {
                   <BsEye />
                 </div>
                 <div>
-                  Visibility{" "}
+                  Visibility
                   <span className="ml-2">{data.visibility / 1000} km</span>
                 </div>
               </div>
@@ -126,7 +126,7 @@ function Card(props) {
                   <BsWind />
                 </div>
                 <div>
-                  Wind <span className="ml-2">{data.wind.speed} m/s</span>
+                  Wind<span className="ml-2">{data.wind.speed} m/s</span>
                 </div>
               </div>
             </div>
